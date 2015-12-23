@@ -1,0 +1,28 @@
+name: Nick Termini
+favicon: null
+layout_spectrum: 0.8179828659631312
+typography_spectrum: 0.9157376305665821
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2839227805379778
+  lightness: 0.3307518695946783
+  saturation: 0.8650017525069416
+  rhythmicContrast: 0.058764978777617216
+purpose: []
